@@ -6,5 +6,7 @@
 * 📚I'm an entrepreneurship major at High Point University
 
 ### You can reach me at:
-[<img align="left" alt="GrahamAtlee | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][<a href="https://twitter.com/GrahamAtlee"></a>]
-[<img align="left" alt="Graham Atlee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][<a href="https://www.linkedin.com/in/grahamatlee/"></a>]
+
+### Languages:
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="C++" width="26px" style="margin-left: 1.2%;" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
