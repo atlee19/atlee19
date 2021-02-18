@@ -1,7 +1,7 @@
 ### Hello, I'm Graham 👋   
 [![Twitter Follow](https://img.shields.io/twitter/follow/GrahamAtlee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/GrahamAtlee)
 
-# I'm a developer who likes to code (shocker)
+# @me
 * 👷I'm currently working on the <a href="https://leap-27.github.io/TritonProject-Guide/">Triton Project</a>
 * 📚I'm an entrepreneurship major at High Point University
 
