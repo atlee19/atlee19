@@ -2,8 +2,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/GrahamAtlee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/GrahamAtlee)
 
 # @me
-* 👷I'm currently working on the <a href="https://leap-27.github.io/TritonProject-Guide/">Triton Project</a>
-* 📚I'm an entrepreneurship major at High Point University
+* 💻 Owner of the <a href="https://leap-27.github.io/TritonProject-Guide/">Triton Project</a>
+* 🎓 Graduated from High Point University 
 
 ### You can reach me at:
 * ✉️ Email: atleegraham16@gmail.com
@@ -16,6 +16,7 @@
 <img align="left" alt="Python" height="32px" width="32px" style="margin-left: 1.2%;" src="https://img.icons8.com/color/48/000000/python.png" />
 <img align="left" alt="Html" height="32px" width="32px" style="margin-left: 1.2%;" src="https://img.icons8.com/color/48/000000/html-5.png" />
 <img align="left" alt="Css" height="32px" width="32px" style="margin-left: 1.2%;" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="C#" height="32px" width="32px" style="margin-left: 1.2%;" src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png"/>
 </br>
 
 ### Tools:
