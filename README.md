@@ -25,3 +25,4 @@
 <img align="left" alt="Net" height="32px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /> 
 <img align="left" alt="Npm" height="32px" width="32px" src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img align="left" alt="Bash" height="32px" width="32px" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
+<img align="left" alt="Docker" height="32px" width="32px" src="https://img.icons8.com/color/48/000000/docker.png"/>
