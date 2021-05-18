@@ -24,4 +24,4 @@
 <img align="left" alt="React" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> 
 <img align="left" alt="Net" height="32px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /> 
 <img align="left" alt="Npm" height="32px" width="32px" src="https://img.icons8.com/color/48/000000/npm.png"/>
-<img align="left" alt="Bash" height="32px" width="32px" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
+<img align="left" alt="Bash" height="48px" width="48px" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
