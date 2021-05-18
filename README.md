@@ -23,3 +23,4 @@
 <img align="left" alt="Node.js" height="42px" width="42px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 <img align="left" alt="React" height="32px" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> 
 <img align="left" alt="Net" height="32px" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" /> 
+<img align="left" alt="Npm" height="32px" width="32px" src="https://img.icons8.com/color/48/000000/npm.png"/>
