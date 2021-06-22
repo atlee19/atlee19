@@ -4,6 +4,7 @@
 # @me
 * 💻 Owner of the <a href="https://leap-27.github.io/TritonProject-Guide/">Triton Project</a>
 * 🎓 Graduated from High Point University 
+* 👨🏼‍💻 Software Engineer at Magic Leap 
 
 ### You can reach me at:
 * ✉️ Email: atleegraham16@gmail.com
